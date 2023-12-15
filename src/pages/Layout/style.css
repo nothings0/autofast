@@ -1,0 +1,33 @@
+.table-of-content {
+    background-color: #fff;
+}
+
+.virtual-toc {
+}
+
+.toc-hide {
+    overflow: hidden;
+}
+
+.toc-float {
+    position: fixed;
+}
+
+.product-detail .product-detail-content .content ul{
+    padding-left:20px !important;
+    list-style: circle !important;
+}
+.product-detail .product-detail-content .content ul li{
+    position: relative;
+    padding-left:10px;
+}
+.product-detail .product-detail-content .content ul li:before{
+    content:'';
+    display: block;
+    position: absolute;
+    left:0;
+    top:8px;
+    width:5px;
+    height:5px;
+    background-color: #000;
+}

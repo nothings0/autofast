@@ -1,0 +1,142 @@
+{
+  "technicians": [
+    
+    {
+      "id": 2,
+      "name": "Anh Phạm",
+      "information": "Kỹ sư thử nghiệm 15 kinh nghiệm tại Ferrari",
+      "image": "/src/assets/img/staff4.png"
+    },
+    {
+      "id": 3,
+      "name": "Phong Phạm",
+      "information": "Kỹ sư thiết kế ô tô với 12 năm đèn sách",
+      "image": "/src/assets/img/staff3.png"
+    },
+    {
+      "id": 4,
+      "name": "Trọng Nguyễn",
+      "information": "Kỹ sư cơ khí 10 năm kinh nghiệm tại Lamborghini",
+      "image": "/src/assets/img/staff2.png"
+    },
+    {
+      "id": 5,
+      "name": "Sơn Nguyễn ",
+      "information": "Kỹ sư sản xuất 5 năm kinh nghiệm tại Ferrari ",
+      "image": "/src/assets/img/staff1.png"
+    }
+   
+  ],
+  "about": [
+    {
+      "id": 1,
+      "name": "Dịch vụ chất lượng",
+      "content": "Chúng tôi tự hào là một trong những Gara ô tô đầu tiên sở hữu chứng nhận 'ISO 9001' tại Việt Nam"
+    },
+    {
+      "id": 2,
+      "name": "Kỹ thuật chuyên nghiệp",
+      "content": "Đội ngũ kỹ thuật viên giàu kinh nghiệm và đã từng tham gia các dự án quốc tế"
+    },
+    {
+      "id": 3,
+      "name": "Thiết bị hiện đại",
+      "content": "Trang thiết bị hiện đại nhập khẩu trực tiếp từ một trong những công ty hàng đầu về bảo dưỡng ô tô Bosch "
+    }
+  ],
+  "aboutz": [
+    {
+      "id": 1,
+      "name": "Auto Fast Dịch vụ bảo dưỡng xe cao cấp",
+      "img": "http://localhost:5173/src/assets/img/about.jpg",
+      "content": "Với 15 năm kinh nghiệm trong lĩnh vực bảo dưỡng và sửa chữa xe ô tô, chúng tôi tự tin nói rằng chúng tôi chính là bố của các Gara ô tô, gọi bố đi các con"
+
+    }
+  ],
+  "abouts" : [
+    {
+      "id": 1,
+      "name": "Năm kinh nghiệm",
+      "soluong": "15"
+    },
+    {
+      "id": 2,
+      "name": "Kỹ sư đẳng cấp",
+      "soluong": "5"
+    },
+    {
+      "id": 3,
+      "name": "Khách hài lòng",
+      "soluong": "3123"
+    },
+    {
+      "id": 4,
+      "name": "Dự án hoàn thiện",
+      "soluong": "123"
+    }
+  ],
+   "servicehome": [
+    {
+      "id": 1,
+      "name": "Đại Tu Động Cơ Ô Tô",
+      "img": "https://otohathanh.com/upload/images/bao-duong-khoang-may-o-to.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bảo Dưỡng Ô Tô Định Kỳ",
+      "img": "https://otohathanh.com/upload/images/bao-duong-co-ban.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sửa Chữa Hộp Số Tự Động",
+      "img": "https://otohathanh.com/upload/images/dich-vu-bao-duong-o-to-ha-noi.jpg"
+    }
+   ],
+   "servicepage": [
+    {
+      "id": 1, 
+      "name": "Vệ Sinh Điều Hòa Ô Tô - Công Nghệ Nội Soi",
+      "img": "https://otohathanh.com/upload/images/noi-soi-dieu-hoa-o-to.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Đại Tu Động Cơ Ô Tô",
+      "img": "https://otohathanh.com/upload/images/bao-duong-khoang-may-o-to.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chẩn Đoán & Xử Lý Hệ Thống Điện Ô Tô",
+      "img": "https://otohathanh.com/upload/images/sua-dien-o-to.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sửa Chữa Khung Gầm Ô Tô",
+      "img": "https://otohathanh.com/upload/images/chay-dau-gam-may-o-to(1).jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bảo Dưỡng Ô Tô Định Kỳ",
+      "img": "https://otohathanh.com/upload/images/bao-duong-co-ban.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sửa Chữa Hộp Số Tự Động",
+      "img": "https://otohathanh.com/upload/images/dich-vu-bao-duong-o-to-ha-noi.jpg"
+    }
+   ],
+   "menu": [
+    {
+      "id": 1,
+      "logo_name": "Auto Fast",
+      "home": "Trang Chủ",
+      "about": "Về Chúng Tôi",
+      "dv": "Dịch Vụ",
+      "page": "Pages",
+      "dl": "Đặt Lịch",
+      "nv": "Kỹ Thuật Viên",
+      "contact": "Liên Hệ",
+      "new": "Tin Tức",
+      "bok": "Đặt Lịch Ngay"
+    }
+   ]
+}
