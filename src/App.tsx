@@ -368,7 +368,7 @@ function App() {
 
           {/* Admin Side */}
           <Route
-            path="admin"
+            path="/admin"
             element={
               //  <ProtectedRoute isAdmin={true}>
               <AdminLayout />
