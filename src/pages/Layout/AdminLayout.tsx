@@ -38,7 +38,6 @@ const AdminLayout = () => {
           <li className="nav-item">
             <a
               className="nav-link collapsed"
-              href="#"
               data-toggle="collapse"
               data-target="#collapseTwo"
               aria-expanded="true"
@@ -82,7 +81,6 @@ const AdminLayout = () => {
           <li className="nav-item">
             <a
               className="nav-link collapsed"
-              href="#"
               data-toggle="collapse"
               data-target="#collapseTwoo"
               aria-expanded="true"
@@ -116,7 +114,6 @@ const AdminLayout = () => {
           <li className="nav-item">
             <a
               className="nav-link collapsed"
-              href="#"
               data-toggle="collapse"
               data-target="#collapseTwoooo"
               aria-expanded="true"
