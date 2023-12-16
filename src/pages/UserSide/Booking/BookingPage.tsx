@@ -576,7 +576,7 @@ const BookingPage = (props: any) => {
                   <p style={{ marginTop: "20px" }}>
                     Dịch vụ khác :
                     <input
-                      type="input"
+                      type="checkbox"
                       checked={isCheckboxChecked}
                       onChange={(e) => handleCheckboxChange1(e)}
                       style={{
