@@ -1,7 +1,7 @@
-import axios from 'axios';
+import axios from "axios";
 
 const instanceClient = axios.create({
-    baseURL: 'http://localhost:3000'
-})
+  baseURL: "https://autofast.vercel.app",
+});
 
 export default instanceClient;
